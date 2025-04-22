@@ -1,0 +1,32 @@
+[
+    {
+        "chat_id": 0,
+        "group": "TEST",
+        "pgroup": "1",
+        "dist_skip": "1"
+    },
+    {
+        "chat_id": 1330310846,
+        "group": "09.07.13Р С—1",
+        "pgroup": "1",
+        "dist_skip": "1"
+    },
+    {
+        "chat_id": 1088820024,
+        "group": "09.07.32",
+        "pgroup": "2",
+        "dist_skip": "0"
+    },
+    {
+        "chat_id": 1216848484,
+        "group": "09.07.33",
+        "pgroup": "2",
+        "dist_skip": "1"
+    },
+    {
+        "chat_id": 5114596963,
+        "group": "09.07.32",
+        "pgroup": 1,
+        "dist_skip": "1"
+    }
+]

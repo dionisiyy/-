@@ -1,0 +1,9 @@
+2025-04-19 11:13:30.996567 - json_read: 'utf-8' codec can't decode byte 0xdd in position 73: invalid continuation byte
+2025-04-19 11:13:57.580124 - json_read: 'utf-8' codec can't decode byte 0xd1 in position 73: invalid continuation byte
+2025-04-19 11:22:54.464989 - core.py/para_output: module 'src.tranzactions' has no attribute 'json_read'
+2025-04-19 11:35:23.643119 - json_read: 'utf-8' codec can't decode byte 0xd1 in position 73: invalid continuation byte
+2025-04-19 11:35:50.003856 - json_read: 'utf-8' codec can't decode byte 0xd1 in position 73: invalid continuation byte
+2025-04-19 11:38:49.880937 - json_read: 'utf-8' codec can't decode byte 0xd1 in position 73: invalid continuation byte
+2025-04-19 11:39:49.553389 - json_read: 'utf-8' codec can't decode byte 0xdd in position 73: invalid continuation byte
+2025-04-19 11:40:26.454302 - json_read: 'utf-8' codec can't decode byte 0xd1 in position 73: invalid continuation byte
+2025-04-19 11:50:26.837423 - main.py: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
